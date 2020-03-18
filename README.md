@@ -1,6 +1,6 @@
 
 # Alfresco Content Services Deployment
-#  - with Digital IDentity - CAS integration
+##  - with Digital IDentity - CAS integration
 
 ## Contributing guide
 Please use [this guide](CONTRIBUTING.md) to make a contribution to the project and information to report any issues.
